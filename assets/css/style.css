@@ -1128,6 +1128,11 @@ nav ul li a:hover {
   font-size: 0.82rem;
 }
 
+.footer-legal {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
 /* === SCROLL TO TOP === */
 #scrollTop {
   position: fixed;
